@@ -4,3 +4,9 @@ Emma, Shell Navigation, submitted
 Dylan, Shell Navigation, not submitted
 Nelly, Shell Navigation, submitted
 Amelia, Shell Navigation, not submitted
+Student Name, Assignment, Status
+Ashelia, Shell Navigation, not submitted
+Emma, Shell Navigation, submitted
+Dylan, Shell Navigation, not submitted
+Nelly, Shell Navigation, submitted
+Amelia, Shell Navigation, not submitted
